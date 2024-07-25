@@ -1,1 +1,2 @@
 DataVizProOverview
+VisualizationMethods
