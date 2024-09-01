@@ -1,2 +1,3 @@
 DataVizProOverview
 VisualizationMethods
+ChartTypes
