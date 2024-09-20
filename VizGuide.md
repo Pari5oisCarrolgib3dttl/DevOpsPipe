@@ -1,3 +1,4 @@
 DataVizProOverview
 VisualizationMethods
 ChartTypes
+ToolDependencies
