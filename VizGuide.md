@@ -2,3 +2,4 @@ DataVizProOverview
 VisualizationMethods
 ChartTypes
 ToolDependencies
+VizExamples
