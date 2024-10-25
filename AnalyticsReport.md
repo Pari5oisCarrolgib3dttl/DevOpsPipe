@@ -2,3 +2,4 @@ ReportStructure
 SetupInstructions
 ReportMetrics
 ReportWorkflow
+ConfigSettings
