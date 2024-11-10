@@ -3,3 +3,4 @@ VisualizationMethods
 ChartTypes
 ToolDependencies
 VizExamples
+ContributionGuide

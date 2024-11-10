@@ -3,3 +3,4 @@ SetupInstructions
 ReportMetrics
 ReportWorkflow
 ConfigSettings
+CommunityRules
