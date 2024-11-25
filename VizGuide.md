@@ -4,3 +4,4 @@ ChartTypes
 ToolDependencies
 VizExamples
 ContributionGuide
+ErrorHandling
