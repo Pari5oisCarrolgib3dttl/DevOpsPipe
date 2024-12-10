@@ -4,3 +4,4 @@ ReportMetrics
 ReportWorkflow
 ConfigSettings
 CommunityRules
+LicenseDetails

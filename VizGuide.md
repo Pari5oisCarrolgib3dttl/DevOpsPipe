@@ -5,3 +5,4 @@ ToolDependencies
 VizExamples
 ContributionGuide
 ErrorHandling
+LegalNotes
