@@ -5,3 +5,4 @@ ReportWorkflow
 ConfigSettings
 CommunityRules
 LicenseDetails
+DataVizFAQ
