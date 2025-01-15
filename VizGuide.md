@@ -6,3 +6,4 @@ VizExamples
 ContributionGuide
 ErrorHandling
 LegalNotes
+Changelog
