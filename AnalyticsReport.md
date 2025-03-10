@@ -8,3 +8,4 @@ LicenseDetails
 DataVizFAQ
 ReportUpdates
 ReportOptimization
+CommunityResources
